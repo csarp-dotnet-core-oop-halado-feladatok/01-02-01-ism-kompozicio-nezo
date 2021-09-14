@@ -80,3 +80,5 @@ Bonuszkártya adatok:
  Felhasználható összeg:30000 Ft
  Státusz: aktív
 ```
+![image](https://user-images.githubusercontent.com/6060514/133220037-ce430c2d-58fb-4aac-a726-b2ae4e6ca376.png)
+
