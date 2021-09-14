@@ -21,6 +21,7 @@ Tesztkód:
        Bonuskartya bonuszkartya = new Bonuskartya("12", statusz, 30000);
        Nezo nezo = new Nezo(nev,hitelkartya,bonuszkartya);
 ```
+![image](https://user-images.githubusercontent.com/6060514/133219905-0fcaee34-15ed-48ac-88d7-8e2a665438a1.png)
 b)  
 Az előző feladatot folytassuk a tulajdonságok meghatározásával. A legtöbb tulajdonság getelhető és settelhető kell legyen, de van ettől eltérő is. Erre figyeljen oda!
 A név osztály teljes név tulajdonsága a vezetéknévből és keresztnévből kell képezni. Pl. „Látó” vezetéknév és „László” keresztnév esetén a teljes név „Látó László”!
@@ -50,6 +51,8 @@ Bonuszkartya bonuszkartya = new Bonuszkartya("12", statusz, 30000);
 if (bonuszkartya.Hasznalhato)
 Console.WriteLine("Próba: a bónuszkártya használható");
 ```
+![image](https://user-images.githubusercontent.com/6060514/133219469-7bb3ddfb-f880-492c-bb00-a6ea529a2e16.png)
+
 c)  
 Egészítsük ki a feladatot a ToString metódus felülírásával minden egyes osztály esetén!
 Ehhez kapcsolódó tesztkód!
